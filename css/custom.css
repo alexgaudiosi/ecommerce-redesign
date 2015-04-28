@@ -1,0 +1,21 @@
+#left-box {
+	background-color: #8bb68b;
+	width: 33.3%;
+	height: 300px;	
+	float: left;	
+}
+
+#center-box {
+	background-color: #ff842a;
+	width: 33.3%;
+	height: 300px;
+	float: left;	
+}
+
+#right-box {
+	background-color: #87d5f6;	
+	width: 33.4%;
+	height: 300px;
+	float: left;
+}
+
