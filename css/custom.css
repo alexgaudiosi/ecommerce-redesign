@@ -1,21 +1,38 @@
+.landing-images img {
+	width: 60%;
+	margin: 0 auto;
+	display: block;
+	margin-top: 100px;
+}
+
+.landing-images h4 {
+	color: white;
+	text-align: center;
+	margin-bottom: -50px;
+	margin-top: 20px;
+	font-size: 1.8em;
+}
+
 #left-box {
 	background-color: #8bb68b;
 	width: 33.3%;
-	height: 300px;	
-	float: left;	
+	height: 420px;	
+	float: left;
+	
 }
 
 #center-box {
 	background-color: #ff842a;
 	width: 33.3%;
-	height: 300px;
+	height: 420px;
 	float: left;	
 }
 
 #right-box {
 	background-color: #87d5f6;	
 	width: 33.4%;
-	height: 300px;
+	height: 420px;
 	float: left;
 }
+
 
