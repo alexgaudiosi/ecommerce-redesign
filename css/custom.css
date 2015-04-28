@@ -35,4 +35,20 @@
 	float: left;
 }
 
+#return {
+  	position: fixed;
+  	right: 20px;
+  	top: 100px;
+	display: none;  	
+}
+
+.hideIt {
+	visibility: hidden !important;
+	
+}
+
+.showIt {
+	visibility: visible !important;
+}
+
 
